@@ -1,8 +1,9 @@
-pysqlite3-binary==0.5.1
-streamlit
 pandas
-crewai
 langchain
 langchain-openai
 openai
+streamlit
+crewai
+pysqlite3-binary
 python-dotenv
+crewai-tools
