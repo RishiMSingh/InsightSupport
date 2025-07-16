@@ -28,7 +28,7 @@ def load_configs():
 def create_crew_with_file(file_path, openai_api_key):
 
     llm = ChatOpenAI(
-        model="gpt-4",  # or "gpt-3.5-turbo"
+        model="gpt-3.5-turbo",  # or "gpt-4"
         temperature=0.3,
         openai_api_key=openai_api_key
     )
