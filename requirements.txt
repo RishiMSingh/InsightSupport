@@ -1,7 +1,7 @@
 pysqlite3-binary==0.5.1
 streamlit
 pandas
-crewai==0.18.0
+crewai
 langchain
 langchain-openai
 openai
