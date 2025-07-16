@@ -2,5 +2,6 @@ streamlit
 pandas
 crewai
 langchain
+langchain-openai
 openai
 python-dotenv
