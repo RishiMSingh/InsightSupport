@@ -1,7 +1,6 @@
 streamlit
 pandas
-crewai==0.19.2
-crewai-tools==0.12.1
+crewai
 langchain
 langchain-openai
 openai
