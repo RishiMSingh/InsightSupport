@@ -6,4 +6,4 @@ streamlit
 crewai
 pysqlite3-binary
 python-dotenv
-crewai-tools
+crewai[tools]>=0.28.0
